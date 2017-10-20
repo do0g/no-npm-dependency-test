@@ -1,0 +1,4 @@
+{
+  "repo": "git@github.com:do0g/no-npm-dependency-test.git",
+  "pre-release": "pre"
+}
